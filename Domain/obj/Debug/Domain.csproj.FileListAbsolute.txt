@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QuanLyBanHang\Domain\bin\Debug\Domain.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QuanLyBanHang\Domain\bin\Debug\Domain.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QuanLyBanHang\Domain\bin\Debug\Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QuanLyBanHang\Domain\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QuanLyBanHang\Domain\bin\Debug\Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QuanLyBanHang\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QuanLyBanHang\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QuanLyBanHang\Domain\obj\Debug\Domain.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QuanLyBanHang\Domain\obj\Debug\Domain.pdb
